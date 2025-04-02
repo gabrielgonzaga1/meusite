@@ -1,0 +1,344 @@
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\scripts\utms\latest.js
+Content Type: text/javascript
+
+Uri: https://receitinhasgourmet.site/
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\index.htm
+Content Type: text/html
+
+Uri: https://receitinhasgourmet.site/comments/feed/
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://receitinhasgourmet.site/feed/
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://receitinhasgourmet.site/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.28.3
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min.css
+Content Type: text/css
+
+Uri: https://receitinhasgourmet.site/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.28.3
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://receitinhasgourmet.site/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.28.3
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://receitinhasgourmet.site/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.28.3
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://receitinhasgourmet.site/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.28.3
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\plugins\elementor\assets\css\widget-image-carousel.min.css
+Content Type: text/css
+
+Uri: https://receitinhasgourmet.site/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.28.3
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://receitinhasgourmet.site/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.28.3
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://receitinhasgourmet.site/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.28.3
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://receitinhasgourmet.site/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.28.3
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://receitinhasgourmet.site/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://receitinhasgourmet.site/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\plugins\elementor\assets\lib\swiper\v8\swiper.min.js
+Content Type: application/x-javascript
+
+Uri: https://receitinhasgourmet.site/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_italic_400.woff2
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_italic_400.woff2
+Content Type: font/woff2
+
+Uri: https://receitinhasgourmet.site/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_400.woff2
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_normal_400.woff2
+Content Type: font/woff2
+
+Uri: https://receitinhasgourmet.site/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_700.woff2
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_normal_700.woff2
+Content Type: font/woff2
+
+Uri: https://receitinhasgourmet.site/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\themes\twentytwentyfour\assets\fonts\inter\Inter-VariableFont_slnt,wght.woff2
+Content Type: font/woff2
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/09/10-3-768x768.webp
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\09\10-3-768x768.webp
+Content Type: image/webp
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/09/3-1-768x768.webp
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\09\3-1-768x768.webp
+Content Type: image/webp
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/09/4-1-768x768.webp
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\09\4-1-768x768.webp
+Content Type: image/webp
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/09/8-2-768x768.webp
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\09\8-2-768x768.webp
+Content Type: image/webp
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/09/Design-sem-nome-52-1024x1024.webp
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\09\Design-sem-nome-52-1024x1024.webp
+Content Type: image/webp
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/09/Design-sem-nome-52-150x150.webp
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\09\Design-sem-nome-52-150x150.webp
+Content Type: image/webp
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/09/Design-sem-nome-52-300x300.webp
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\09\Design-sem-nome-52-300x300.webp
+Content Type: image/webp
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/09/Design-sem-nome-52-768x768.webp
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\09\Design-sem-nome-52-768x768.webp
+Content Type: image/webp
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/09/Design-sem-nome-52.webp
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\09\Design-sem-nome-52.webp
+Content Type: image/webp
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/09/Design_sem_nome__53_-removebg-preview-150x150.webp
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\09\Design_sem_nome__53_-removebg-preview-150x150.webp
+Content Type: image/webp
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/09/Design_sem_nome__53_-removebg-preview-300x300.webp
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\09\Design_sem_nome__53_-removebg-preview-300x300.webp
+Content Type: image/webp
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/09/img_0136-8-169x300.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\09\img_0136-8-169x300.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/09/img_0136-8.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\09\img_0136-8.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/09/renda-extra-300x235.webp
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\09\renda-extra-300x235.webp
+Content Type: image/webp
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/09/renda-extra.webp
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\09\renda-extra.webp
+Content Type: image/webp
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/09/selo-de-qualidade-garantida-150x150.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\09\selo-de-qualidade-garantida-150x150.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/09/selo-de-qualidade-garantida.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\09\selo-de-qualidade-garantida.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/09/Selo-produto-INPI-150x150.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\09\Selo-produto-INPI-150x150.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/11/Design_sem_nome__53_-removebg-preview-150x150.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\11\Design_sem_nome__53_-removebg-preview-150x150.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/11/Design_sem_nome__53_-removebg-preview-300x300.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\11\Design_sem_nome__53_-removebg-preview-300x300.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/11/Design_sem_nome__53_-removebg-preview.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\11\Design_sem_nome__53_-removebg-preview.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/091766354224c006f4608989f6308c84.jpg
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\091766354224c006f4608989f6308c84.jpg
+Content Type: image/jpeg
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/84028695_116055153287001_7157399235975970816_n-Copia.jpg
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\84028695_116055153287001_7157399235975970816_n-Copia.jpg
+Content Type: image/jpeg
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/e380b0de7f5d178e849c644b5347c732.jpg
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\e380b0de7f5d178e849c644b5347c732.jpg
+Content Type: image/jpeg
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/Geladinho-Cremoso-de-Morango-com-Iogurte-Receita-Facil-e-Deliciosa-para-o-Verao-1.jpg
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\Geladinho-Cremoso-de-Morango-com-Iogurte-Receita-Facil-e-Deliciosa-para-o-Verao-1.jpg
+Content Type: image/jpeg
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/geladinhos-gourmet-do-youtuber-nandu-andrade-1579199870588_v2_4x3-768x768.jpg
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\geladinhos-gourmet-do-youtuber-nandu-andrade-1579199870588_v2_4x3-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/hq720-5-1.jpg
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\hq720-5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/meuEbookResetei-11-1024x858.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\meuEbookResetei-11-1024x858.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/meuEbookResetei-11-1536x1288.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\meuEbookResetei-11-1536x1288.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/meuEbookResetei-11-2048x1717.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\meuEbookResetei-11-2048x1717.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/meuEbookResetei-11-300x251.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\meuEbookResetei-11-300x251.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/meuEbookResetei-11-768x644.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\meuEbookResetei-11-768x644.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/meuEbookResetei-12-1024x858.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\meuEbookResetei-12-1024x858.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/meuEbookResetei-12-1536x1288.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\meuEbookResetei-12-1536x1288.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/meuEbookResetei-12-2048x1717.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\meuEbookResetei-12-2048x1717.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/meuEbookResetei-12-300x251.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\meuEbookResetei-12-300x251.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/meuEbookResetei-12-768x644.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\meuEbookResetei-12-768x644.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/meuEbookResetei-13-1024x858.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\meuEbookResetei-13-1024x858.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/meuEbookResetei-13-1536x1288.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\meuEbookResetei-13-1536x1288.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/meuEbookResetei-13-2048x1717.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\meuEbookResetei-13-2048x1717.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/meuEbookResetei-13-300x251.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\meuEbookResetei-13-300x251.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/meuEbookResetei-13-768x644.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\meuEbookResetei-13-768x644.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/meuEbookResetei-14-1024x858.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\meuEbookResetei-14-1024x858.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/meuEbookResetei-14-1536x1288.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\meuEbookResetei-14-1536x1288.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/meuEbookResetei-14-2048x1717.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\meuEbookResetei-14-2048x1717.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/meuEbookResetei-14-300x251.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\meuEbookResetei-14-300x251.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2024/12/meuEbookResetei-14-768x644.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2024\12\meuEbookResetei-14-768x644.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2025/02/bed1106ab6d5b985687ddcc3bff94170-300x189.jpg
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2025\02\bed1106ab6d5b985687ddcc3bff94170-300x189.jpg
+Content Type: image/jpeg
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2025/02/bed1106ab6d5b985687ddcc3bff94170.jpg
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2025\02\bed1106ab6d5b985687ddcc3bff94170.jpg
+Content Type: image/jpeg
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2025/02/geladinho-serenata-de-amor-9-1-150x150.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2025\02\geladinho-serenata-de-amor-9-1-150x150.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2025/02/geladinho-serenata-de-amor-9-1-300x300.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2025\02\geladinho-serenata-de-amor-9-1-300x300.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2025/02/geladinho-serenata-de-amor-9-1.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2025\02\geladinho-serenata-de-amor-9-1.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2025/03/Excel-300x143.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2025\03\Excel-300x143.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2025/03/Excel.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2025\03\Excel.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2025/03/ornate-heart-shaped-padlock-for-love-themed-designs-free-png-150x150.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2025\03\ornate-heart-shaped-padlock-for-love-themed-designs-free-png-150x150.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2025/03/ornate-heart-shaped-padlock-for-love-themed-designs-free-png-300x300.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2025\03\ornate-heart-shaped-padlock-for-love-themed-designs-free-png-300x300.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2025/03/ornate-heart-shaped-padlock-for-love-themed-designs-free-png-768x768.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2025\03\ornate-heart-shaped-padlock-for-love-themed-designs-free-png-768x768.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-content/uploads/2025/03/ornate-heart-shaped-padlock-for-love-themed-designs-free-png.png
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-content\uploads\2025\03\ornate-heart-shaped-padlock-for-love-themed-designs-free-png.png
+Content Type: image/png
+
+Uri: https://receitinhasgourmet.site/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://receitinhasgourmet.site/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://receitinhasgourmet.site/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://receitinhasgourmet.site/wp-json/
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://receitinhasgourmet.site/wp-json/oembed/1.0/embed?url=https:%2F%2Freceitinhasgourmet.site%2F
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://receitinhasgourmet.site/wp-json/oembed/1.0/embed?url=https:%2F%2Freceitinhasgourmet.site%2F&format=xml
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://receitinhasgourmet.site/wp-json/wp/v2/pages/1569
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\wp-json\wp\v2\pages\1569
+Content Type: application/json
+
+Uri: https://receitinhasgourmet.site/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-1NZ6Y0286M
+File Name: C:\Downloaded Web Sites\receitinhasgourmet.site\gtag\js
+Content Type: application/javascript
+
